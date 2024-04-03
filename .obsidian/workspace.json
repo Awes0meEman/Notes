@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "37859c8504268109",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2a0c95fa90c1c59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf223621945cf87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef52222eb6a50cf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7052b48fb559768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d7061af064ac044",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3e68f0b1bf92483",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d047803c0a19bec5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b606a4e9fd5358b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "878276b15844511b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7daf900774fe211",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ae46ab89753a03c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "331320cc789886ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7e028de42bc1af8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9d7061af064ac044",
+  "lastOpenFiles": [
+    "TTRPG",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Supplies.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Organizations/Catch-A-Steed.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 2.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 1.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Cities/Mabraycig.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Organizations/Adventurer's Guild.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Organizations/Spectral Guard.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Organizations",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Cities/Scorbury.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Cities/Badabar.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Cities/Bywald.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Cities/Hastow.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Cities/Ukthad.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Cities/Tabrycg.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Cities/Pennemoor.md",
+    "TTRPG/Rattus/Editing Notes/The Bells of Jeanne.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Bjorn.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/The Map.md",
+    "Pasted image 20240402193017.png",
+    "Game Development/Minetest/lua_api.md",
+    "Game Development/Minetest/README.md",
+    "Game Development/Minetest/client_lua_api.md",
+    "Game Development/Minetest/world_format.md",
+    "Game Development/Minetest/texture_packs.md",
+    "Game Development/Minetest/menu_lua_api.md",
+    "Game Development/Minetest",
+    "Web Development/Formats/YAML.md",
+    "Images/Pasted image 20240319224042.png",
+    "Images/Pasted image 20240319232756.png",
+    "Images/Pasted image 20240319232735.png",
+    "Images/Pasted image 20240319232719.png",
+    "Images/Pasted image 20240319232705.png",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 0.md",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Cities",
+    "Images/Pasted image 20240319230240.png",
+    "Images/Pasted image 20240319230226.png",
+    "Images/Pasted image 20240319230210.png",
+    "Employability",
+    "Web Development/Formats",
+    "Game Development/GameMaker/IDE",
+    "Game Development/Systems/Inventory System",
+    "Game Development/Systems",
+    "Images/Pasted image 20240305215748.png",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler"
+  ]
+}
