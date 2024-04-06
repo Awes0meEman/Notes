@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b2a0c95fa90c1c59",
+        "id": "50c0f4176901990a",
         "type": "tabs",
         "children": [
           {
-            "id": "dcf223621945cf87",
+            "id": "6088cbed5b0b4415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 2.md",
+                "file": "Trains/Task Tracking Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 2.md",
+                "file": "Trains/Task Tracking Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 2.md",
+                "file": "Trains/Task Tracking Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 2.md"
+                "file": "Trains/Task Tracking Log.md"
               }
             }
           }
@@ -146,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d7061af064ac044",
+  "active": "6088cbed5b0b4415",
   "lastOpenFiles": [
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 2.md",
+    "Trains/Task Tracking Log.md",
+    "Trains",
     "TTRPG",
     "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Supplies.md",
     "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Organizations/Catch-A-Steed.md",
-    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 2.md",
     "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 1.md",
     "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Cities/Mabraycig.md",
     "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Organizations/Adventurer's Guild.md",
@@ -191,8 +193,6 @@
     "Game Development/GameMaker/IDE",
     "Game Development/Systems/Inventory System",
     "Game Development/Systems",
-    "Images/Pasted image 20240305215748.png",
-    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes",
-    "TTRPG/Rattus/Campaigns/Teddy Ember Filler"
+    "Images/Pasted image 20240305215748.png"
   ]
 }
