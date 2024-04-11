@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trains/Task Tracking Log.md",
+                "file": "Applications/Vim/Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trains/Task Tracking Log.md",
+                "file": "Applications/Vim/Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trains/Task Tracking Log.md",
+                "file": "Applications/Vim/Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trains/Task Tracking Log.md"
+                "file": "Applications/Vim/Shortcuts.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "6088cbed5b0b4415",
   "lastOpenFiles": [
-    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 2.md",
     "Trains/Task Tracking Log.md",
+    "Applications/Vim/Shortcuts.md",
+    "Applications/Vim",
+    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 2.md",
     "Trains",
     "TTRPG",
     "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Supplies.md",
@@ -183,7 +185,6 @@
     "Images/Pasted image 20240319232735.png",
     "Images/Pasted image 20240319232719.png",
     "Images/Pasted image 20240319232705.png",
-    "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Session Notes/Session 0.md",
     "TTRPG/Rattus/Campaigns/Teddy Ember Filler/Cities",
     "Images/Pasted image 20240319230240.png",
     "Images/Pasted image 20240319230226.png",
@@ -192,7 +193,6 @@
     "Web Development/Formats",
     "Game Development/GameMaker/IDE",
     "Game Development/Systems/Inventory System",
-    "Game Development/Systems",
     "Images/Pasted image 20240305215748.png"
   ]
 }
